@@ -31,7 +31,11 @@ body {
   width: 384px;
 }
 
-button {
+.button {
   background: white;
   border: 1px solid #eee;
+  width: 150px;
+  height: 30px;
+  margin-left: 110px;
+  padding-top: 8px;
 }
